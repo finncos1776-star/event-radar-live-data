@@ -1,1 +1,1 @@
-{"schema":"event-radar-live-feed-signature-v1","algorithm":"Ed25519","keyId":"b25c5fb3d2fdd617","generatedAt":"2026-08-03T10:14:01.745Z","signature":"1O6JxTvRBY4eIjKlXuwkHrI5A0WVXX8rigsjLw+k06Fk+glQjhuAttYe5FImQgqL6pBF3sMHZsfIp2PZWxOTCQ=="}
+{"schema":"event-radar-live-feed-signature-v1","algorithm":"Ed25519","keyId":"b25c5fb3d2fdd617","generatedAt":"2026-08-03T10:21:13.491Z","signature":"3mXAFcSFyWtyUG6KcVpkSQcVIb6SUjEnKdcXwVel/W+MY2xcVUd/LOuBr7tNJ2E4rTJAHE+Rzz5zakX6VOXeAQ=="}
