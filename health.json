@@ -1,7 +1,7 @@
 {
   "schema": "event-radar-live-feed-health-v1",
-  "generatedAt": "2026-08-17T22:24:01.037Z",
-  "total": 2155,
+  "generatedAt": "2026-08-18T10:16:28.418Z",
+  "total": 2267,
   "source": "local-event-radar",
   "signatureKeyId": "b25c5fb3d2fdd617"
 }
